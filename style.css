@@ -1,0 +1,257 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+@media(min-width:1023px) {
+
+    .main {
+        height: 380px;
+        width: 100%;
+        /* border: 2px solid red; */
+    }
+
+    .top {
+        margin-left: 68px;
+        float: left;
+    }
+
+    .top p {
+        font-size: 15px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .top i {
+        font-size: 40px;
+    }
+
+    .top h1 {
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .top button {
+        border-radius: 200px;
+        color: white;
+        background-color: rgb(17, 5, 5);
+        padding: 10px 20px;
+    }
+
+    .top img {
+
+        height: 250px;
+        width: 90%;
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+
+    .top h4 {
+        margin-left: 70px;
+    }
+
+    .second {
+        height: 480px;
+        width: 100%;
+        /* border: 2px solid red; */
+    }
+
+    .middle h1 {
+        font-size: 25px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+    }
+
+    .middle {
+        font-size: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+    }
+
+    .bottom img {
+        border: 1px black;
+        border-radius: 20px;
+        height: 200px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 50px;
+
+    }
+
+    .tom button {
+        background-color: rgb(3, 2, 2);
+        color: rgb(255, 253, 253);
+        border-radius: 100px;
+        padding: 13px 23px 13px 23px;
+        margin-top: 70px;
+        margin-left: 550px;
+    }
+
+    .down {
+        height: 300px;
+        width: 100%;
+        /* border: 2px solid red; */
+
+    }
+
+    .end {
+        margin-left: 40px;
+        float: left;
+    }
+
+    .end h1 {
+        font-size: 23px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top: 30px;
+    }
+
+    .end p {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+
+    .tim1 {
+        margin-left: 20px;
+        float: left;
+    }
+
+    .tim1 h2 {
+        font-size: 15px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-top: 20px;
+        margin-left: 10px;
+
+    }
+
+    .tim1 p {
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 15px;
+        margin-left: 10px;
+
+    }
+
+    .end img {
+        border: 2px black;
+        border-radius: 30px;
+        height: 250px;
+        margin-top: 40px;
+        margin-left: 50px;
+
+    }
+
+    .sathish {
+        height: 700px;
+        width: 100%;
+        /* border: 2px solid red; */
+        float: left;
+
+    }
+
+    .ranga video {
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+
+    .ranga {
+        height: 500px;
+        width: 50%;
+        /* border: 1px solid red; */
+        float: left;
+
+    }
+
+    .ranga p {
+        margin-left: 80px;
+    }
+
+    .ranga h1 {
+        margin-top: 40px;
+        margin-left: 80px;
+    
+    }
+
+    .karthik p {
+        float: left;
+        margin-right: 20px;
+        margin-top: 30px;
+        background-color: black;
+        color: rgb(239, 236, 236);
+        padding: 20px 15px 20px 15px;
+        border-radius: 10px;
+    }
+
+.siri{
+    height: 430px;
+    width: 500px;
+    /* border:1px solid green; */
+    margin-left: 700px;
+}
+.dpp{
+height: 250px;
+width: 500px;
+/* border: 1px solid blue; */
+margin-top: 80px;
+} 
+
+.dp1{
+    height: 60px;
+    width: 230px;
+    border: 1px solid black;
+    float: left;
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(19, 6, 6);
+    color: rgb(251, 253, 255);
+    
+    } 
+    .dp2{
+        height: 60px;
+        width: 230px;
+        border: 1px solid black;
+        margin-left: 250px;
+        margin-top: 20px;
+        padding-top: 20px;
+    text-align: center;
+    background-color: rgb(19, 6, 6);
+    color: rgb(251, 253, 255);
+        } 
+        .dp3{
+            height: 60px;
+            width: 230px;
+            border: 1px solid black;
+            float: left;
+            margin-top: 20px;
+            padding-top: 20px;
+            text-align: center;
+            background-color: rgb(19, 6, 6);
+            color: rgb(251, 253, 255);
+
+            } 
+            .dp4{
+                height: 60px;
+                width: 230px;
+                border: 1px solid black;
+                margin-left: 250px;
+                margin-top: 20px;
+                padding-top: 20px;
+    text-align: center;
+    background-color: rgb(19, 6, 6);
+    color: rgb(251, 253, 255);
+                } 
+
+
+
+
+
+
+
+
+
+
+
+
+}
